@@ -9,4 +9,6 @@ The object of analysis was the concentration of coliforms (fecal deposits) in th
   <img src="https://github.com/wesleyacruzzz/statistical_control_process_application/blob/main/Images/img2.png" width="450" /> 
 </p>
 
+<img src="https://github.com/wesleyacruzzz/statistical_control_process_application/blob/main/Images/img1.png" width="425"/> <img src="https://github.com/wesleyacruzzz/statistical_control_process_application/blob/main/Images/img2.png" width="425"/> 
+
 We hope researchers can find this web application informative in their own work, if you're interested in using this tool you can find it at: https://wesley-almeida-cruz-wess.shinyapps.io/CEP2/.
