@@ -1,6 +1,6 @@
 # Statistical Process Control (SPC) applied to public beaches in Natal - Web application
 
-The purpose of this project was to assess the conditions of 13 beaches regarding safeness for swimming in Natal, Brazil. For this we developed an web application using R Shiny.
+The purpose of this project was to assess the conditions of 15 beaches regarding safeness for swimming in Natal, Brazil. For this we developed an web application using R Shiny.
 
 The object of analysis was the concentration of coliforms (fecal deposits) in the sea water, this metric was compared to what is considered safe and cross-validated using SPC tools such as Control charts and process capability.
 
