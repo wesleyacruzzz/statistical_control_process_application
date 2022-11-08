@@ -4,13 +4,11 @@ The purpose of this project was to assess the conditions of 15 beaches regarding
 
 The object of analysis was the concentration of coliforms (fecal deposits) in the sea water, this metric was compared to what is considered safe and cross-validated using SPC tools such as Control charts and process capability.
 
-Control Chart             |  Process Capability
-:-------------------------:|:-------------------------:
-![]([https://...Dark.png](https://github.com/wesleyacruzzz/statistical_control_process_application/blob/main/Images/img1.png))  |  ![]([https://...Ocean.png](https://github.com/wesleyacruzzz/statistical_control_process_application/blob/main/Images/img2.png))
-
-<p align="center">
-  <img src="" width="900" title="Control Chart Section">
+<p float="left">
+  <img src="https://...Dark.png](https://github.com/wesleyacruzzz/statistical_control_process_application/blob/main/Images/img1.png" width="100" />
+  <img src="https://...Dark.png](https://github.com/wesleyacruzzz/statistical_control_process_application/blob/main/Images/img1.png" width="100" /> 
 </p>
+
 
 <p align="center">
   <img src="https://github.com/wesleyacruzzz/statistical_control_process_application/blob/main/Images/img2.png" width="900" title="Process Capability Section">
