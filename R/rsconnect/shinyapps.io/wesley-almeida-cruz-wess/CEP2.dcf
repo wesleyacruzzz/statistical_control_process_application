@@ -1,0 +1,12 @@
+name: CEP2
+title: CEP2
+username:
+account: wesley-almeida-cruz-wess
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3202195
+bundleId: 3842963
+url: https://wesley-almeida-cruz-wess.shinyapps.io/CEP2/
+when: 1605017415.47243
+asMultiple: FALSE
+asStatic: FALSE
